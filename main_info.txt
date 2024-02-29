@@ -1,5 +1,5 @@
 {
-  "version_win" : "1.0.0.0",
+  "version_win" : "1.0.0",
   "version_and" : "1.0.0",
   "lang_version_en" : "1.0.0",
   "lang_version_ru" : "1.0.0",
