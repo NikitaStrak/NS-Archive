@@ -1,3 +1,4 @@
 {
-  "version" : "1.0.1.0",
+  "version_win" : "1.0.0.0",
+  "version_and" : "1.0.0",
 }
