@@ -1,5 +1,5 @@
 {
-  "version" : "1.0.1",
+  "version" : "1.0.0",
   "last_update" : "...",
   "lang_version_en" : "1.0.0",
   "lang_version_ru" : "1.0.0",
