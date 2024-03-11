@@ -1,4 +1,4 @@
 {
-  "version" : "1.0.1",
-  "last-update" : "https://drive.google.com/file/d/1aJzyzi5fP2HeYMwYSrL8RJO3YRhIDy0p/view?usp=sharing",
+  "version" : "1.0.2",
+  "last-update" : "https://drive.usercontent.google.com/download?id=1aJzyzi5fP2HeYMwYSrL8RJO3YRhIDy0p&export=download&authuser=0&confirm=t&uuid=2e261441-50bd-42c3-9007-3fc6927e423b&at=APZUnTVpJs9KCqK32n-dJqWVRoYn%3A1710158214221",
 }
