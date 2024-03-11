@@ -1,4 +1,4 @@
 {
-  "version" : "1.0.0",
-  "last-update" : "...",
+  "version" : "1.0.1",
+  "last-update" : "https://drive.google.com/file/d/1aJzyzi5fP2HeYMwYSrL8RJO3YRhIDy0p/view?usp=sharing",
 }
