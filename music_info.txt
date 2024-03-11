@@ -1,5 +1,5 @@
 {
-  "main_mus_count": 10,
+  "main_mus_count": 20,
 
   "mus_path_0": "https://github.com/NikitaStrak/NS-Archive/raw/read/music/Restless%20Night",
   "mus_name_0": "Restless Night",
@@ -17,4 +17,11 @@
   "mus_name_7": "С фурри",
   "mus_name_8": "Сперма в рот",
   "mus_name_9": "Ребёнку",
+  "mus_name_10": "Блять",
+  "mus_name_11": "я хз чо писать",
+  "mus_name_12": "Идите в ПИЗДУ",
+  "mus_name_13": "...",
+  "mus_name_14": "Ладно",
+  "mus_name_15": "Пока",
+  "mus_name_16": "...Я СКАЗАЛ ПОКА!",
 }
