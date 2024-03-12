@@ -1,1 +1,6 @@
-
+{
+  "main_img_count": 1,
+  
+  "img_path_0": "",
+  "img_name_0": "",
+}
