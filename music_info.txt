@@ -1,5 +1,6 @@
 {
-  "main_mus_count": 50,
+  "main_mus_count": 2
+,
 
   "mus_path_0": "https://github.com/NikitaStrak/NS-Archive/raw/read/music/Restless%20Night",
   "mus_name_0": "Restless Night",
