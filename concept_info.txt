@@ -2,5 +2,5 @@
   "main_con_count": 1,
   
   "con_path_0": "",
-  "con_name_0": "",
+  "con_name_0": "Заросшие пещеры?",
 }
