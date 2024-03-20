@@ -1,6 +1,6 @@
 {
-  "main_img_count": 1,
+  "main_con_count": 1,
   
-  "img_path_0": "",
-  "img_name_0": "",
+  "con_path_0": "",
+  "con_name_0": "",
 }
