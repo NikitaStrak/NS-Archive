@@ -1,6 +1,6 @@
 {
   "main_con_count": 1,
   
-  "con_path_0": "https://github.com/NikitaStrak/NS-Archive/raw/read/music/Restless%20Night.png",
+  "con_path_0": "https://github.com/NikitaStrak/NS-Archive/raw/read/music/A%20Flower%20Sefani.wav",
   "con_name_0": "Заросшие пещеры?",
 }
