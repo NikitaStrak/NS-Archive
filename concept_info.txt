@@ -1,5 +1,5 @@
 {
-  "main_con_count": 1,
+  "main_con_count": 2,
   
   "con_path_0": "https://github.com/NikitaStrak/NS-Archive/raw/read/concept/cave.png",
   "con_name_0": "Заросшие пещеры",
