@@ -4,8 +4,4 @@
   "con_path_0": "https://github.com/NikitaStrak/NS-Archive/raw/read/concept/cave.png",
   "con_name_0": "Заросшие пещеры",
   "con_description_0" : "Одна из локаций моего старого и заброшенного фан-сиквелу по Undertale (пост-пацифист), основанного в ноябре 2021...",
-  
-  "con_path_1": "https://github.com/NikitaStrak/NS-Archive/raw/read/concept/sussy.png"
-  "con_name_1": "ЧТО"
-  "con_description_1": "Просто тест, для того, чтобы вы УВИДЕЛИ, как работает система отображения нового контента. То есть вы же увидели надпись около кнопки (1 новый(ых)). "
 }
