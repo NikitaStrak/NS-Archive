@@ -3,4 +3,5 @@
   
   "con_path_0": "https://github.com/NikitaStrak/NS-Archive/raw/read/concept/cave.png",
   "con_name_0": "Заросшие пещеры",
+  "con_description_0" : "Одна из локаций моего старого и заброшенного фан-сиквелу по Undertale (пост-пацифист), основанного в ноябре 2021...",
 }
