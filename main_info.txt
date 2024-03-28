@@ -1,5 +1,5 @@
 {
-  "version" : "0.1.0",
+  "version" : "0.9.0",
   "last-update" : "https://github.com/NikitaStrak/NS-Archive/raw/versions/Update-V.1.0.1.zip",
 
   "update-v0.9.1_description": "Быстрый патч с небольшими изменениями.",
