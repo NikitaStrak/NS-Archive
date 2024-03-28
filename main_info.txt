@@ -1,5 +1,5 @@
 {
-  "version" : "0.9.1",
+  "version" : "0.9.0",
   "last-update" : "",
 
   "update-v0.9.1_description": "Быстрый патч с небольшими изменениями.",
