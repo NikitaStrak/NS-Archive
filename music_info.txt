@@ -1,5 +1,5 @@
 {
-  "main_mus_count": 3,
+  "main_mus_count": 4,
   
   "mus_path_0": "https://github.com/NikitaStrak/NS-Archive/raw/read/music/Restless%20Night",
   "mus_name_0": "Restless Night",
@@ -12,4 +12,6 @@
   "mus_path_2": "https://github.com/NikitaStrak/NS-Archive/raw/read/music/Epic%20Orchestra",
   "mus_name_2": "Epic Orchestra",
   "mus_description_2": "История саундрека.\n9 апреля. Пока я сидел в школе, у меня в голове появилась прикольная мелодия из органа (музыкального инструмента) с SGM V2 саундтфонта. И я в тот же день, прийдя со школы, сразу сел в FL Studio, и написал. Даже не сделал дз, сейчас пойду делать...",
+  
+  "mus_path_3": "https://github.com/NikitaStrak/NS-Archive/raw/read/music/disaster%20reimagined.ogg"
 }
