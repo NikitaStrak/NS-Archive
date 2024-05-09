@@ -19,5 +19,5 @@
 
   "mus_path_4": "https://github.com/NikitaStrak/NS-Archive/raw/read/music/Orch",
   "mus_name_4": "Orch.ogg",
-  "mus_description_4:" "9 мая, 2024 год. Я весь день сижу в FL Studio 21.\nЭтот ОТРЫВОК я начал писать 8 мая, сегодня, 9 мая я его дописал. Первоначальный мой источник вдохновения, Fallen Down (Reprise). Потом я вдохновлялся Scarlet Forest... Выложил потому что понравилось.",
+  "mus_description_4": "9 мая, 2024 год. Я весь день сижу в FL Studio 21.\nЭтот ОТРЫВОК я начал писать 8 мая, сегодня, 9 мая я его дописал. Первоначальный мой источник вдохновения, Fallen Down (Reprise). Потом я вдохновлялся Scarlet Forest... Выложил потому что понравилось.",
 }
